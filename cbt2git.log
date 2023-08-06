@@ -1,0 +1,21 @@
+2023-08-06 02:11:36.111792 - Initialized conversion of CBT204
+2023-08-06 02:11:36.417247 - Received CBT.V505.FILE204.PDS from FILE204.XMI 
+2023-08-06 02:11:36.419674 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE204.PDS, moved to PDS/$$$#DATE
+2023-08-06 02:11:36.420724 - Found $$DOC.txt (text/plain) in CBT.V505.FILE204.PDS, moved to PDS/$$DOC
+2023-08-06 02:11:36.421738 - Found $PDSLOAD.jcl (text/plain) in CBT.V505.FILE204.PDS, moved to PDS/$PDSLOAD
+2023-08-06 02:11:36.422722 - Found @FILE204.txt (text/plain) in CBT.V505.FILE204.PDS, moved to PDS/@FILE204
+2023-08-06 02:11:36.423639 - Found ASMLVL.txt (text/plain) in CBT.V505.FILE204.PDS, moved to PDS/ASMLVL
+2023-08-06 02:11:36.424493 - Found ASMLVLJ.jcl (text/plain) in CBT.V505.FILE204.PDS, moved to PDS/ASMLVLJ
+2023-08-06 02:11:36.425376 - Found ASMLVLT.jcl (text/plain) in CBT.V505.FILE204.PDS, moved to PDS/ASMLVLT
+2023-08-06 02:11:36.426315 - Found CHANGES.txt (text/plain) in CBT.V505.FILE204.PDS, moved to PDS/CHANGES
+2023-08-06 02:11:36.427316 - Found CLIST.txt (text/plain) in CBT.V505.FILE204.PDS, moved to PDS/CLIST
+2023-08-06 02:11:36.428212 - Found CNTL.txt (text/plain) in CBT.V505.FILE204.PDS, moved to PDS/CNTL
+2023-08-06 02:11:36.429315 - Found IMBEDS.txt (text/plain) in CBT.V505.FILE204.PDS, moved to PDS/IMBEDS
+2023-08-06 02:11:36.430274 - Found LEVLLIST.txt (text/plain) in CBT.V505.FILE204.PDS, moved to PDS/LEVLLIST
+2023-08-06 02:11:36.431222 - Found MSGS.txt (text/plain) in CBT.V505.FILE204.PDS, moved to PDS/MSGS
+2023-08-06 02:11:36.431232 - Found PANELS.bin containing application/octet-stream, moved to PDS/PANELS
+2023-08-06 02:11:36.433105 - Found PARMLIB.txt (text/plain) in CBT.V505.FILE204.PDS, moved to PDS/PARMLIB
+2023-08-06 02:11:36.434089 - Found PRMPACKD.txt (text/plain) in CBT.V505.FILE204.PDS, moved to PDS/PRMPACKD
+2023-08-06 02:11:36.434988 - Found RESPACKD.txt (text/plain) in CBT.V505.FILE204.PDS, moved to PDS/RESPACKD
+2023-08-06 02:11:36.435936 - Found SKELS.txt (text/plain) in CBT.V505.FILE204.PDS, moved to PDS/SKELS
+2023-08-06 02:11:36.435946 - Found TABLES.bin containing application/octet-stream, moved to PDS/TABLES
