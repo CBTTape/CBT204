@@ -1,0 +1,20 @@
+2025-04-13 14:43:50.921405 - Received CBT.V508.FILE204.PDS from FILE204.XMI 
+2025-04-13 14:43:50.922614 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE204.PDS, moved to PDS/$$$#DATE
+2025-04-13 14:43:50.922696 - Found $$DOC.txt (text/plain) in CBT.V508.FILE204.PDS, moved to PDS/$$DOC
+2025-04-13 14:43:50.922758 - Found $PDSLOAD.jcl (text/plain) in CBT.V508.FILE204.PDS, moved to PDS/$PDSLOAD
+2025-04-13 14:43:50.922830 - Found @FILE204.txt (text/plain) in CBT.V508.FILE204.PDS, moved to PDS/@FILE204
+2025-04-13 14:43:50.922890 - Found ASMLVL.txt (text/plain) in CBT.V508.FILE204.PDS, moved to PDS/ASMLVL
+2025-04-13 14:43:50.922947 - Found ASMLVLJ.jcl (text/plain) in CBT.V508.FILE204.PDS, moved to PDS/ASMLVLJ
+2025-04-13 14:43:50.923012 - Found ASMLVLT.jcl (text/plain) in CBT.V508.FILE204.PDS, moved to PDS/ASMLVLT
+2025-04-13 14:43:50.923127 - Found CHANGES.txt (text/plain) in CBT.V508.FILE204.PDS, moved to PDS/CHANGES
+2025-04-13 14:43:50.923309 - Found CLIST.txt (text/plain) in CBT.V508.FILE204.PDS, moved to PDS/CLIST
+2025-04-13 14:43:50.923401 - Found CNTL.txt (text/plain) in CBT.V508.FILE204.PDS, moved to PDS/CNTL
+2025-04-13 14:43:50.923668 - Found IMBEDS.txt (text/plain) in CBT.V508.FILE204.PDS, moved to PDS/IMBEDS
+2025-04-13 14:43:50.923737 - Found LEVLLIST.txt (text/plain) in CBT.V508.FILE204.PDS, moved to PDS/LEVLLIST
+2025-04-13 14:43:50.923802 - Found MSGS.txt (text/plain) in CBT.V508.FILE204.PDS, moved to PDS/MSGS
+2025-04-13 14:43:50.923962 - Found PANELS.bin (application/octet-stream) in CBT.V508.FILE204.PDS, moved to PDS/PANELS
+2025-04-13 14:43:50.924035 - Found PARMLIB.txt (text/plain) in CBT.V508.FILE204.PDS, moved to PDS/PARMLIB
+2025-04-13 14:43:50.924104 - Found PRMPACKD.txt (text/plain) in CBT.V508.FILE204.PDS, moved to PDS/PRMPACKD
+2025-04-13 14:43:50.924184 - Found RESPACKD.txt (text/plain) in CBT.V508.FILE204.PDS, moved to PDS/RESPACKD
+2025-04-13 14:43:50.924327 - Found SKELS.txt (text/plain) in CBT.V508.FILE204.PDS, moved to PDS/SKELS
+2025-04-13 14:43:50.924562 - Found TABLES.bin (application/octet-stream) in CBT.V508.FILE204.PDS, moved to PDS/TABLES
